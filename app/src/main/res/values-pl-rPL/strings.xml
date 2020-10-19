@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Suchar</string>
+    <string name="generate">Generuj</string>
+    <string name="joke_1">Co elektryk robi na scenie... buduje napięcie</string>
+    <string name="joke_2">Jak nazywa się lina produkowana w USA... trampolina</string>
+    <string name="joke_3">Dlaczego blondynka wyrzuca zegar przez okno... bo patrzy jak czas leci</string>
+    <string name="joke_4">Jaki jest ulubiony owoc żołnierza... granat</string>
+    <string name="joke_5">Dlaczego w kącie jest ciepło... bo ma 90 stopni</string>
+</resources>

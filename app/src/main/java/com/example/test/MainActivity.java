@@ -18,11 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void Generuj(View view) {
         TextView joke = findViewById(R.id.joke);
-        String[] tab = {"What an electrician is doing on stage... builds tension",
-                "What is the name of the line produced in the USA... trampoline",
-                "Why the blonde throws the clock through the window... because he watches time go by",
-                "What is the soldier's favorite fruit... pomegranate",
-                "Why is it hot in the corner... because it's 90 degrees"};
+        String[] tab = getResources().getStringArray(R.array.jokes);
         Random rand = new Random();
         int rand_number = rand.nextInt(5);
         joke.setText(tab[rand_number]);

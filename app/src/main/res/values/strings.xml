@@ -1,9 +1,11 @@
 <resources>
     <string name="app_name">Not funny app</string>
     <string name="generate">Generate</string>
-    <string name="joke_1">What an electrician is doing on stage... builds tension</string>
-    <string name="joke_2">What is the name of the line produced in the USA... trampoline</string>
-    <string name="joke_3">Why the blonde throws the clock through the window... because he watches time go by</string>
-    <string name="joke_4">What is the soldier\'s favorite fruit... pomegranate</string>
-    <string name="joke_5">Why is it hot in the corner... because it\'s 90 degrees</string>
+    <string-array name="jokes">
+        <item name="joke_1">What an electrician is doing on stage... builds tension</item>
+        <item name="joke_2">What is the name of the line produced in the USA... trampoline</item>
+        <item name="joke_3">Why the blonde throws the clock through the window... because he watches time go by</item>
+        <item name="joke_4">What is the soldier\'s favorite fruit... pomegranate</item>
+        <item name="joke_5">Why is it hot in the corner... because it\'s 90 degrees</item>
+    </string-array>>
 </resources>

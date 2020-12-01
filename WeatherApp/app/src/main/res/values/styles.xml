@@ -1,0 +1,36 @@
+<resources>
+    <style name="labelStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_marginStart">50dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#1b449e</item>
+        <item name="android:gravity">bottom</item>
+    </style>
+
+    <style name="dataStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_marginStart">50dp</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:gravity">bottom</item>
+    </style>
+
+    <style name="label1Style">
+        <item name="android:layout_width">175dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_marginStart">50dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#1b449e</item>
+        <item name="android:gravity">bottom</item>
+    </style>
+
+    <style name="label2Style">
+        <item name="android:layout_width">175dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#1b449e</item>
+        <item name="android:gravity">bottom</item>
+    </style>
+</resources>
